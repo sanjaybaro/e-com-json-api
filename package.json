@@ -1,0 +1,24 @@
+{
+  "name": "e-com-json-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjaybaro/e-com-json-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjaybaro/e-com-json-api/issues"
+  },
+  "homepage": "https://github.com/sanjaybaro/e-com-json-api#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.23"
+  }
+}
