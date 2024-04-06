@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/sanjaybaro/e-com-json-api#readme",
   "dependencies": {
-    "json-server": "^1.0.0-alpha.23"
+    "json-server": "^0.17.4"
   }
 }
